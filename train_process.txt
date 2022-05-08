@@ -1,0 +1,51 @@
+C:\Users\84342\anaconda3\envs\dejahu\python.exe C:/Users/84342/PycharmProjects/PrecipitationNowcasting/train.py
+[INFO] Imports loaded.
+[INFO] Input sequence ready
+[INFO] Compiling Main Model...
+[INFO] Compiling Main Model: DONE
+[INFO] Training Main Model...
+Epoch 1/20
+18/18 [==============================] - 2597s 144s/step - loss: 3.2424 - accuracy: 0.7523 - ssim: 0.4484 - psnr: -18.4013 - POD: 0.8887 - FAR: 0.3401 - val_loss: 1.3005 - val_accuracy: 0.8986 - val_ssim: 0.7443 - val_psnr: -14.4562 - val_POD: 0.9217 - val_FAR: 0.2529
+Epoch 2/20
+18/18 [==============================] - 2583s 144s/step - loss: 3.2081 - accuracy: 0.7891 - ssim: 0.6077 - psnr: -18.3775 - POD: 0.9454 - FAR: 0.1551 - val_loss: 1.2943 - val_accuracy: 0.9091 - val_ssim: 0.7285 - val_psnr: -14.4498 - val_POD: 0.9372 - val_FAR: 0.1775
+Epoch 3/20
+18/18 [==============================] - 2585s 144s/step - loss: 3.2021 - accuracy: 0.7956 - ssim: 0.5964 - psnr: -18.3728 - POD: 0.9620 - FAR: 0.1330 - val_loss: 1.2913 - val_accuracy: 0.9134 - val_ssim: 0.7352 - val_psnr: -14.4443 - val_POD: 0.9552 - val_FAR: 0.1415
+Epoch 4/20
+18/18 [==============================] - 2574s 143s/step - loss: 3.1976 - accuracy: 0.8021 - ssim: 0.6066 - psnr: -18.3697 - POD: 0.9729 - FAR: 0.1064 - val_loss: 1.2889 - val_accuracy: 0.9177 - val_ssim: 0.7456 - val_psnr: -14.4410 - val_POD: 0.9659 - val_FAR: 0.0863
+Epoch 5/20
+18/18 [==============================] - 2583s 144s/step - loss: 3.1939 - accuracy: 0.8084 - ssim: 0.6149 - psnr: -18.3676 - POD: 0.9808 - FAR: 0.0728 - val_loss: 1.2872 - val_accuracy: 0.9185 - val_ssim: 0.7435 - val_psnr: -14.4372 - val_POD: 0.9837 - val_FAR: 0.0806
+Epoch 6/20
+18/18 [==============================] - 2590s 144s/step - loss: 3.1915 - accuracy: 0.8124 - ssim: 0.6145 - psnr: -18.3662 - POD: 0.9869 - FAR: 0.0538 - val_loss: 1.2864 - val_accuracy: 0.9204 - val_ssim: 0.7433 - val_psnr: -14.4367 - val_POD: 0.9857 - val_FAR: 0.0566
+Epoch 7/20
+18/18 [==============================] - 2581s 143s/step - loss: 3.1903 - accuracy: 0.8145 - ssim: 0.6133 - psnr: -18.3657 - POD: 0.9900 - FAR: 0.0430 - val_loss: 1.2861 - val_accuracy: 0.9208 - val_ssim: 0.7434 - val_psnr: -14.4362 - val_POD: 0.9886 - val_FAR: 0.0532
+Epoch 8/20
+18/18 [==============================] - 2589s 144s/step - loss: 3.1898 - accuracy: 0.8153 - ssim: 0.6165 - psnr: -18.3654 - POD: 0.9916 - FAR: 0.0368 - val_loss: 1.2859 - val_accuracy: 0.9209 - val_ssim: 0.7482 - val_psnr: -14.4360 - val_POD: 0.9898 - val_FAR: 0.0463
+Epoch 9/20
+18/18 [==============================] - 2592s 144s/step - loss: 3.1895 - accuracy: 0.8157 - ssim: 0.6186 - psnr: -18.3653 - POD: 0.9926 - FAR: 0.0329 - val_loss: 1.2859 - val_accuracy: 0.9211 - val_ssim: 0.7509 - val_psnr: -14.4361 - val_POD: 0.9899 - val_FAR: 0.0372
+Epoch 10/20
+18/18 [==============================] - 2587s 144s/step - loss: 3.1893 - accuracy: 0.8158 - ssim: 0.6197 - psnr: -18.3652 - POD: 0.9933 - FAR: 0.0303 - val_loss: 1.2858 - val_accuracy: 0.9211 - val_ssim: 0.7517 - val_psnr: -14.4360 - val_POD: 0.9906 - val_FAR: 0.0365
+Epoch 11/20
+18/18 [==============================] - 2596s 144s/step - loss: 3.1892 - accuracy: 0.8160 - ssim: 0.6205 - psnr: -18.3652 - POD: 0.9938 - FAR: 0.0275 - val_loss: 1.2858 - val_accuracy: 0.9212 - val_ssim: 0.7528 - val_psnr: -14.4360 - val_POD: 0.9902 - val_FAR: 0.0307
+Epoch 12/20
+18/18 [==============================] - 2562s 142s/step - loss: 3.1891 - accuracy: 0.8160 - ssim: 0.6211 - psnr: -18.3652 - POD: 0.9941 - FAR: 0.0256 - val_loss: 1.2858 - val_accuracy: 0.9210 - val_ssim: 0.7526 - val_psnr: -14.4358 - val_POD: 0.9919 - val_FAR: 0.0373
+Epoch 13/20
+18/18 [==============================] - 2589s 144s/step - loss: 3.1890 - accuracy: 0.8161 - ssim: 0.6216 - psnr: -18.3651 - POD: 0.9943 - FAR: 0.0242 - val_loss: 1.2857 - val_accuracy: 0.9212 - val_ssim: 0.7535 - val_psnr: -14.4359 - val_POD: 0.9910 - val_FAR: 0.0296
+Epoch 14/20
+18/18 [==============================] - 2550s 142s/step - loss: 3.1890 - accuracy: 0.8162 - ssim: 0.6220 - psnr: -18.3651 - POD: 0.9946 - FAR: 0.0227 - val_loss: 1.2857 - val_accuracy: 0.9212 - val_ssim: 0.7536 - val_psnr: -14.4359 - val_POD: 0.9912 - val_FAR: 0.0296
+Epoch 15/20
+18/18 [==============================] - 2585s 144s/step - loss: 3.1889 - accuracy: 0.8162 - ssim: 0.6223 - psnr: -18.3651 - POD: 0.9948 - FAR: 0.0221 - val_loss: 1.2857 - val_accuracy: 0.9211 - val_ssim: 0.7544 - val_psnr: -14.4358 - val_POD: 0.9920 - val_FAR: 0.0312
+Epoch 16/20
+18/18 [==============================] - 2590s 144s/step - loss: 3.1889 - accuracy: 0.8163 - ssim: 0.6224 - psnr: -18.3650 - POD: 0.9950 - FAR: 0.0210 - val_loss: 1.2857 - val_accuracy: 0.9213 - val_ssim: 0.7543 - val_psnr: -14.4359 - val_POD: 0.9915 - val_FAR: 0.0269
+Epoch 17/20
+18/18 [==============================] - 2573s 143s/step - loss: 3.1888 - accuracy: 0.8164 - ssim: 0.6225 - psnr: -18.3650 - POD: 0.9952 - FAR: 0.0198 - val_loss: 1.2857 - val_accuracy: 0.9213 - val_ssim: 0.7546 - val_psnr: -14.4359 - val_POD: 0.9916 - val_FAR: 0.0266
+Epoch 18/20
+18/18 [==============================] - 2576s 143s/step - loss: 3.1888 - accuracy: 0.8164 - ssim: 0.6227 - psnr: -18.3650 - POD: 0.9954 - FAR: 0.0193 - val_loss: 1.2857 - val_accuracy: 0.9213 - val_ssim: 0.7545 - val_psnr: -14.4359 - val_POD: 0.9916 - val_FAR: 0.0257
+Epoch 19/20
+18/18 [==============================] - 2576s 143s/step - loss: 3.1887 - accuracy: 0.8165 - ssim: 0.6227 - psnr: -18.3649 - POD: 0.9955 - FAR: 0.0186 - val_loss: 1.2857 - val_accuracy: 0.9212 - val_ssim: 0.7543 - val_psnr: -14.4358 - val_POD: 0.9918 - val_FAR: 0.0264
+Epoch 20/20
+18/18 [==============================] - 2584s 144s/step - loss: 3.1887 - accuracy: 0.8165 - ssim: 0.6228 - psnr: -18.3649 - POD: 0.9957 - FAR: 0.0183 - val_loss: 1.2857 - val_accuracy: 0.9213 - val_ssim: 0.7547 - val_psnr: -14.4359 - val_POD: 0.9915 - val_FAR: 0.0233
+[INFO] Training of Main Model: DONE
+[INFO] Saving Model...
+[INFO] Model Saved
+
+Process finished with exit code 0
